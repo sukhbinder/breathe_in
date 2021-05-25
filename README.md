@@ -7,7 +7,7 @@ Works in windows, Linux and Mac.
 
 #  How to use
 
-Post install, just type breadthe in the ``cmd`` or ``terminal`` 
+Post install, just type **breathe** in the ``cmd`` or ``terminal`` 
 
 ```bash
 
